@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: rentify
+        psr4_prefix: rentify
+        src_path: app
